@@ -1,5 +1,5 @@
 ---
-active:true
+active: true
 widget: hero
 headless: true
 weight: 10
