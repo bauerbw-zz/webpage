@@ -2,13 +2,13 @@
 bio: My research interests include suicide prevention, decision making, and neuroeconomics
 education:
   courses:
-  - course: Doctoral Candidate
+  - course: Ph.D. in Clinical Psychology
     institution: University of Southern Mississippi
-    year: PhD expected (2022)
+    year: expected 2022
   - course: MS Counseling Psychology
     institution: Lewis & Clark College
     year: 2016
-  - course: BA Philosophy BA Psychology
+  - course: BA Philosophy, BA Psychology
     institution: University of Washington
     year: 2011
 email: "bauerbw@uic.edu"
@@ -25,16 +25,13 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:bauerbw@uic.edu 
-- icon: envelope
-  icon_pack: fas
-  link: /#contact
 - display:
     header: true
 - icon: graduation-cap
   icon_pack: fas
   link: https://www.researchgate.net/profile/Brian-Bauer
 - icon: microscope
-  icon_pack: fab
+  icon_pack: fas
   link: https://osf.io/3h7e8/
 superuser: true
 title: Brian Bauer
@@ -42,4 +39,4 @@ title: Brian Bauer
 
 Brian Bauer is a predoctoral clinical psychology intern at the University of Illinois Chicago (UIC) Medical Center and doctoral candidate at the University of Southern Missisippi. His research interests include suicide prevention and theory, behavioral economics and nudges, decision neuroscience, cognitive affective neuroscience, and neuroeconomics. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Bauer_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
