@@ -30,8 +30,8 @@ social:
 - icon: graduation-cap
   icon_pack: fas
   link: https://www.researchgate.net/profile/Brian-Bauer
-- icon: microscope
-  icon_pack: fas
+- icon: osf
+  icon_pack: ai
   link: https://osf.io/3h7e8/
 superuser: true
 title: Brian Bauer
